@@ -21,8 +21,7 @@
         </activity>
         <receiver android:name=".ForceOfflineReceiver" >
             <intent-filter>
-                <action android:name="com.example.broadcastbestpractice.
-FORCE_OFFLINE" />
+                <action android:name="com.example.broadcastbestpractice.FORCE_OFFLINE" />
             </intent-filter>
         </receiver>
     </application>
