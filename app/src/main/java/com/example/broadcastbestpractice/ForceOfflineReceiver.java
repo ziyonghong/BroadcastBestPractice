@@ -7,6 +7,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.view.WindowManager;
 
+
 //强制下线的广播接收器类
 public class ForceOfflineReceiver extends BroadcastReceiver {
     public void onReceive(final Context context, Intent intent) {
